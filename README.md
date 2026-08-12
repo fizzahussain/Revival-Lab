@@ -37,7 +37,7 @@ It then produces a case-file style investigation built around retrieved archive 
 ## 🖥️ Interface
 
 
-## 🖥️ Interface Preview
+## Preview
 
 ### Investigation Workspace
 
@@ -56,13 +56,6 @@ It then produces a case-file style investigation built around retrieved archive 
 </div>
 
 
-### Before Investigation
-
-![Revival Lab case input](docs/images/case-input.png)
-
-### Generated Case File
-
-![Revival Lab generated report](docs/images/case-report.png)
 
 ---
 

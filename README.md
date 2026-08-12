@@ -36,6 +36,26 @@ It then produces a case-file style investigation built around retrieved archive 
 
 ## 🖥️ Interface
 
+
+## 🖥️ Interface Preview
+
+### Investigation Workspace
+
+<div align="center">
+
+<img src="docs/images/investigation-workspace.png" alt="Revival Lab investigation workspace" width="900"/>
+
+</div>
+
+### Case Analysis Result
+
+<div align="center">
+
+<img src="docs/images/case-analysis-result.png" alt="Revival Lab case analysis result" width="900"/>
+
+</div>
+
+
 ### Before Investigation
 
 ![Revival Lab case input](docs/images/case-input.png)

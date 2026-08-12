@@ -1,0 +1,22 @@
+Title: White Lime Roof Coating for Passive Cooling
+
+Problem Solved:
+Reducing indoor temperatures of buildings in hot climates and mitigating the urban heat island effect without consuming electricity.
+
+Historical Origin:
+The practice of whitewashing buildings using lime (calcium hydroxide) is thousands of years old. It has been used extensively throughout the Mediterranean (such as the iconic white buildings of Santorini, Greece), the Middle East, North Africa, and parts of India and Latin America.
+
+How It Worked:
+Whitewash is made by mixing slaked lime (calcium hydroxide) with water, and sometimes adding natural binders like salt, tallow, or linseed oil to make it water-resistant. When applied to rooftops and exterior walls, it works through two main physical processes:
+1. High Solar Reflectance (Albedo): The bright white color of the cured lime has a high albedo, reflecting up to 80-90% of incoming solar radiation. Instead of absorbing the sun's energy and transferring it into the building, the roof reflects the light back into space.
+2. High Thermal Emittance: Lime has high thermal emittance in the far-infrared spectrum. This means it efficiently radiates heat away from the building, cooling it down even below the ambient air temperature under clear night skies (radiative cooling).
+By reflecting solar heat, whitewashed roofs can keep the interior of buildings several degrees cooler, significantly increasing thermal comfort in hot regions.
+
+Why It Was Forgotten:
+With the availability of cheap, mass-produced concrete, asphalt shingles, and synthetic paints in the 20th century, lime coatings fell out of favor. Synthetic paints were marketed as longer-lasting and easier to apply, despite having lower thermal emittance and reflecting less solar radiation over time. The widespread adoption of mechanical air conditioners also reduced the incentive for builders to focus on passive thermal properties of construction materials.
+
+Modern Revival:
+White roof coatings are experiencing a major revival under the "cool roofs" movement to combat rising global temperatures and the urban heat island effect. Modern cool roof coatings are modeled on the physics of traditional whitewashing, using advanced polymers and reflective pigments. In developing countries, simple lime-based whitewashing remains a highly cost-effective, DIY solution for low-income communities to reduce indoor heat stress and lower air conditioning bills by up to 20%.
+
+Limitations:
+Lime-based coatings are soluble in water and wear off over time, especially in areas with high rainfall, requiring reapplication every 1 to 2 years. Lime is also highly alkaline and requires careful handling during mixing to avoid skin and eye irritation. In colder climates, white roofs can increase heating costs during the winter by reflecting the sun's warmth when it is actually needed.

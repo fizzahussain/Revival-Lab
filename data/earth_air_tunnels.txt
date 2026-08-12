@@ -1,0 +1,11 @@
+Title: Earth Air Tunnels
+Category: Passive Cooling / Ground-Coupled Ventilation
+Problem Solved: Reducing cooling demand by pre-cooling incoming air using the relatively stable temperature of the ground.
+Historical Origin: Ground-coupled cooling principles appear in earth-sheltered structures, underground houses, qanat-linked cooling, and vernacular systems in hot dry regions.
+How It Worked: Outside air passes through buried pipes or underground channels before entering a building. Heat transfers from the air into cooler surrounding soil, reducing indoor temperature.
+Evidence It Worked: Modern building science supports ground-coupled heat exchange when pipe length, burial depth, airflow rate, drainage, and hygiene are designed correctly.
+Why It Declined: Mechanical cooling became easier to install, while underground systems require careful construction, cleaning, and moisture control.
+Modern Revival Potential: Modern pipes, sensors, fans, antimicrobial materials, condensate drainage, and simulation tools can make the idea safer and more reliable.
+Risks: Poorly maintained tunnels can develop mold, pests, or stagnant air. Humid climates require careful drainage and filtration.
+Verdict: Worth Reviving with strict design controls.
+Source Notes: Passive cooling and earth-air heat exchanger research literature.

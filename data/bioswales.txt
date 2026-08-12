@@ -1,0 +1,11 @@
+Title: Bioswales
+Category: Urban Flooding / Nature-Based Drainage
+Problem Solved: Managing stormwater runoff, filtering pollutants, and reducing pressure on concrete drainage systems.
+Historical Origin: The modern term is recent, but the underlying idea resembles older vegetated drainage channels, planted lowlands, and landscape-based water slowing practices.
+How It Worked: Shallow vegetated channels slow stormwater, allow infiltration, trap sediments, and guide excess water safely.
+Evidence It Worked: Nature-based solutions guidance describes vegetated systems such as bioretention areas, wetlands, and green corridors as useful urban resilience measures when designed for local rainfall and soil.
+Why It Declined or Was Overlooked: Urban drainage became dominated by hard concrete channels because they are visible, standardized, and easier to specify in conventional engineering contracts.
+Modern Revival Potential: Bioswales can be integrated into roads, campuses, parking lots, parks, and housing developments with sensors and maintenance schedules.
+Risks: They can fail if clogged by trash, under-sized, poorly planted, or not maintained.
+Verdict: Worth Reviving as part of hybrid grey-green drainage.
+Source Notes: World Bank Catalogue of Nature-based Solutions for Urban Resilience.

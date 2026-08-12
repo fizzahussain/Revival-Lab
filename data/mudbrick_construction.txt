@@ -1,0 +1,19 @@
+Title: Adobe and Mudbrick Construction
+Category: Building Materials / Thermal Mass / Passive Cooling
+Problem Solved:
+Regulating indoor building temperatures in extreme desert and hot-dry climates using local, low-cost materials with minimal carbon footprint.
+
+Historical Origin:
+One of the oldest building materials in human history, mudbrick and adobe were used in ancient Mesopotamia, Egypt, the Indus Valley, the Middle East, and by indigenous peoples of the Americas (such as the Puebloans in the Southwestern United States).
+
+How It Worked:
+Mudbricks are made of clay, sand, water, and organic binders (like straw or manure) formed in molds and sun-dried. Because mudbrick walls are built very thick, they possess high thermal mass. This creates a "thermal lag" effect: the walls absorb the heat of the sun during the hot day, keeping the interior cool. The heat slowly migrates through the wall and is released into the building during the cool desert night, naturally balancing temperature fluctuations.
+
+Why It Was Forgotten:
+The advent of concrete block construction, Portland cement, and modern HVAC systems in the 20th century led to a decline in traditional mudbrick building. Concrete was viewed as faster, more durable, and a status symbol of modern development, while mudbrick was stigmatized as a material for the poor.
+
+Modern Revival:
+ Rammearth and stabilized adobe are being reintroduced in sustainable building codes. By adding small amounts of modern stabilizers (like cement or asphalt emulsion) to local soil mixes, builders create water-resistant mudbrick structures that utilize natural thermal mass, eliminating the need for energy-heavy air conditioning.
+
+Limitations:
+Unstabilized mudbricks are highly vulnerable to water damage and erosion from heavy rainfall, requiring protective plasters and roof overhangs. They are labor-intensive to manufacture and build with, and are not suitable for high-density vertical urban construction.

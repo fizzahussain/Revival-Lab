@@ -1,0 +1,21 @@
+Title: Qanats (Underground Aqueducts)
+
+Problem Solved:
+Transporting water over long distances in hot, arid climates without losing it to evaporation.
+
+Historical Origin:
+Developed in ancient Persia (modern-day Iran) during the early 1st millennium BCE (around 3,000 years ago). The technology spread widely along the Silk Road, through the Middle East, North Africa (where they are known as foggara), and even into Spain (via the Moors) and South America.
+
+How It Worked:
+A qanat is a system of underground channels that taps into an alluvial aquifer at the base of hills or mountains and channels the water downhill using gravity. The construction begins with a mother well (the main water source dug into the hillside). A gently sloping underground tunnel is then excavated, running from the water source to the agricultural fields or settlements at lower elevations.
+Because the tunnel's gradient is shallower than the ground's surface slope, the water eventually emerges at the surface without needing pumps. Vertical shafts are sunk from the surface to the tunnel at regular intervals. These shafts served three purposes: they provided ventilation for the workers during excavation, allowed the removal of excavated soil, and continued to serve as access points for maintenance and clearing debris.
+By keeping the water underground, the qanat system prevents evaporation, which is extremely high in desert areas. It also filters the water naturally as it flows through the soil and rock channels.
+
+Why It Was Forgotten:
+In the mid-20th century, the introduction of motorized diesel pumps and deep-well drilling technologies allowed rapid extraction of groundwater. This was faster and required less manual labor than maintaining qanats. In many regions, land reforms and rapid urbanization disrupted the traditional communal system of water distribution and maintenance (managed by water masters). As groundwater tables dropped due to over-pumping from modern wells, many ancient qanats dried up and fell into disrepair.
+
+Modern Revival:
+Qanats can be revived as a sustainable, low-carbon, and low-cost water management solution in arid regions. They do not deplete aquifers beyond their natural recharge rate because they rely entirely on gravity and natural groundwater levels, unlike motorized wells which can easily drain aquifers. Modern adaptation can involve lining tunnels with eco-friendly concrete to prevent collapse, using modern sensor networks to monitor water quality and flow rates, and integrating them into regional permaculture and sustainable farming designs.
+
+Limitations:
+Qanats require specific topography (sloping land near mountainous regions) and are extremely labor-intensive to construct and maintain manually. They can also be contaminated if surface waste enters the open vertical shafts. If the regional groundwater table falls too low due to nearby deep-borewell pumping, the qanat will stop functioning completely.

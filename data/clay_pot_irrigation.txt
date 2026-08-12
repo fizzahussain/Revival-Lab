@@ -1,0 +1,11 @@
+Title: Clay Pot Irrigation
+Category: Agriculture / Water Scarcity
+Problem Solved: Reducing water use for small gardens and farms by delivering moisture slowly near plant roots.
+Historical Origin: Buried unglazed clay pots, sometimes called olla irrigation, are associated with ancient and traditional farming practices in dry regions across Asia, North Africa, and the Americas.
+How It Worked: Unglazed porous clay pots are buried near plants and filled with water. Water seeps slowly through the pot wall as the surrounding soil dries.
+Evidence It Worked: The method is physically plausible and widely documented in small-scale agriculture because it reduces evaporation and targets the root zone.
+Why It Declined: Drip irrigation, plastic pipes, labor requirements, pot breakage, and scaling challenges displaced the method in many contexts.
+Modern Revival Potential: It can be revived for home gardens, school gardens, nurseries, refugee camps, and smallholder farms using standardized ceramic emitters or hybrid low-cost irrigation kits.
+Risks: Not ideal for large mechanized farms. Clay quality, clogging, salinity, and pot breakage matter.
+Verdict: Worth Reviving for small-scale water-stressed agriculture.
+Source Notes: Traditional irrigation and water-conservation agriculture literature.

@@ -1,0 +1,11 @@
+Title: Small Check Dams
+Category: Water Harvesting / Flood and Drought Resilience
+Problem Solved: Slowing runoff, reducing erosion, and increasing groundwater recharge in small watersheds.
+Historical Origin: Stone bunds, earthen barriers, and small water-spreading structures have been used in dryland communities for centuries.
+How It Worked: Small barriers across gullies or streams slow water during rainfall, trap sediment, and allow more infiltration.
+Evidence It Worked: Watershed management literature supports check dams where they are properly sited, designed for overflow, and maintained.
+Why It Declined: Centralized water projects and poor maintenance sometimes replaced decentralized watershed practices.
+Modern Revival Potential: GIS siting, community monitoring, gabions, local stone, and groundwater measurement can improve results.
+Risks: Poorly designed structures can breach, cause upstream waterlogging, or shift flood risk downstream.
+Verdict: Worth Reviving with engineering review.
+Source Notes: FAO water harvesting and watershed management guidance.

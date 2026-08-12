@@ -1,0 +1,19 @@
+Title: Passive Solar Design
+Category: Building Design / Solar Energy / Heating and Cooling
+Problem Solved:
+Providing energy-efficient heating and cooling in buildings by utilizing the sun's energy, building orientation, and natural materials without relying on mechanical or electrical systems.
+
+Historical Origin:
+Passive solar principles were utilized by ancient civilizations including the Greeks (Socrates' solar houses), the Romans (who used glass in south-facing bathhouses to trap heat), and the Ancestral Puebloans (Pueblo cliff dwellings designed to capture winter sun while shading from summer sun) in North America.
+
+How It Worked:
+Buildings are oriented with their longest axis facing south (in the Northern hemisphere) to maximize solar gain during winter. Thick thermal mass walls (made of adobe, stone, brick, or water containers) absorb solar heat during the sunny day and release it slowly at night as ambient temperatures drop (thermal lag). Strategic overhangs, eaves, or deciduous trees block the high summer sun from entering windows, while allowing the low winter sun to penetrate deep inside. Natural convection currents are utilized to circulate warmed or cooled air without fans.
+
+Why It Was Forgotten:
+The availability of cheap electricity, fossil fuels, and modern HVAC (heating, ventilation, and air conditioning) systems in the 20th century allowed builders to ignore solar orientation. Architectural designs became standardized and decoupled from local climate conditions, relying heavily on active heating/cooling.
+
+Modern Revival:
+Passive solar design is a cornerstone of net-zero carbon buildings and Passive House standards. Modern revival combines traditional principles with high-performance double or triple-glazed windows, advanced insulation materials, and computer-controlled natural ventilation systems to reduce space heating and cooling energy loads by up to 80%.
+
+Limitations:
+Highly dependent on solar access and site orientation, which can be difficult to achieve in high-density urban areas with pre-existing street grids. It requires climate-specific engineering and calculations to avoid winter freezing or summer overheating.

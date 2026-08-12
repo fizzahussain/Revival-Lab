@@ -1,0 +1,21 @@
+Title: Persian Windcatchers (Bâdgir)
+
+Problem Solved:
+Providing natural ventilation and cooling inside buildings located in extremely hot, arid environments without using electricity.
+
+Historical Origin:
+Developed in ancient Persia (modern-day Iran) and widely utilized across the Middle East, North Africa, and parts of West Asia. Archaeological evidence suggests they date back thousands of years, with some of the most sophisticated remaining structures found in Yazd, Iran.
+
+How It Worked:
+Windcatchers are chimney-like towers built on top of buildings. They function through several aerodynamic and thermodynamic principles. First, the height of the tower captures stronger, cooler winds circulating above ground level. The tower is divided internally into multiple vertical shafts. When wind blows, it is channeled down into the building, pushing warm air out through opposite openings or other windows (wind pressure effect).
+In the absence of wind, the windcatcher acts as a solar chimney. The tower is heated by the sun, warming the air inside it. The warm air rises and escapes through the top, drawing cooler air into the building from low-level windows or underground tunnels (buoyancy/stack effect).
+Additionally, windcatchers were often combined with "qanats" (underground water channels) or wet surfaces. As incoming air passed over the cold water, heat was transferred to the water, and moisture evaporated into the air. This process of evaporative cooling significantly reduced the air temperature and increased humidity, making the indoor environment comfortable in dry desert climates.
+
+Why It Was Forgotten:
+With the advent of modern air conditioning (HVAC) systems in the 20th century, traditional architectural methods were largely abandoned. Air conditioners provided immediate, precise, and easily adjustable temperature control at the push of a button. Modern construction also shifted toward concrete and glass, which have poor thermal mass compared to traditional adobe and mudbrick, making windcatchers less compatible with modern building designs. Additionally, the craftsmanship required to build efficient traditional windcatchers became scarce.
+
+Modern Revival:
+Windcatchers can be adapted for modern green architecture to reduce energy consumption in hot, arid regions. Passive ventilation systems inspired by windcatchers can be integrated into public schools, office buildings, residential complexes, and eco-resorts. Modern variants utilize lightweight materials, automated dampers, and solar-powered fans to regulate airflow dynamically based on temperature and wind speed, integrating traditional principles with smart building technology.
+
+Limitations:
+They are highly climate-dependent, performing exceptionally well in hot, dry environments but poorly in humid zones where evaporative cooling is ineffective and high humidity prevents comfortable sweating. They also present entry points for dust, sand, insects, and birds, requiring modern filtration systems. Furthermore, they are difficult to implement in high-density urban areas with tall skyscrapers that block wind flow.

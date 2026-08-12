@@ -1,0 +1,11 @@
+Title: Permeable Pavements
+Category: Urban Flooding / Heat Island Reduction
+Problem Solved: Reducing surface runoff and puddling by allowing water to pass through pavement into a storage layer below.
+Historical Origin: The modern engineering product is recent, but the principle resembles older porous ground surfaces, unpaved courtyards, gravel streets, and water-sensitive settlement design.
+How It Worked: Water passes through gaps or porous material into a stone reservoir, then infiltrates soil or drains slowly.
+Evidence It Worked: Modern stormwater research supports permeable surfaces where soil, traffic load, sediment control, and maintenance are suitable.
+Why It Declined or Was Overlooked: Asphalt and concrete became dominant for speed, cost, and standardized road construction.
+Modern Revival Potential: Parking lots, pedestrian streets, campuses, and low-traffic roads are good pilot sites.
+Risks: Heavy sediment, poor installation, clogged pores, and high-load roads can reduce performance.
+Verdict: Worth Reviving in targeted locations.
+Source Notes: Urban stormwater and nature-based/green infrastructure guidance.

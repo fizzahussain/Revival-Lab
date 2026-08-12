@@ -1,0 +1,11 @@
+Title: Khadin Runoff Farming
+Category: Dryland Agriculture / Water Harvesting
+Problem Solved: Growing crops in arid zones by capturing monsoon runoff on agricultural fields.
+Historical Origin: Khadin systems are associated with traditional runoff farming in the Thar Desert region of Rajasthan and nearby arid landscapes.
+How It Worked: An earthen embankment holds runoff on a field. Water infiltrates and leaves moisture in the soil for crops after the water recedes.
+Evidence It Worked: The system reflects strong local adaptation to seasonal rainfall, soil type, and community maintenance.
+Why It Declined: Land fragmentation, maintenance burdens, changing livelihoods, and groundwater pumping reduced reliance on communal runoff systems.
+Modern Revival Potential: Can be adapted with hydrological mapping, improved spillways, soil moisture monitoring, and farmer cooperatives.
+Risks: Requires suitable catchment, soils, and collective governance. Poor design can cause waterlogging or embankment failure.
+Verdict: Worth Reviving in matching dryland contexts.
+Source Notes: Traditional water harvesting and dryland farming literature.

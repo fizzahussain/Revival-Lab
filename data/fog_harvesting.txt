@@ -1,0 +1,11 @@
+Title: Fog Harvesting Nets
+Category: Water Scarcity / Atmospheric Water
+Problem Solved: Collecting water from fog in dry regions with frequent fog events.
+Historical Origin: The idea imitates natural water capture by plants and surfaces. Modern mesh fog collectors have been tested in fog-rich dry regions such as parts of Chile, Morocco, and coastal mountains.
+How It Worked: Fog droplets collide with mesh fibers, accumulate, and drain into storage tanks.
+Evidence It Worked: Field projects show the concept can work where fog frequency, wind, and maintenance are favorable.
+Why It Declined or Was Limited: It is geographically specific and cannot create water where fog is absent.
+Modern Revival Potential: Better mesh materials, community maintenance, sensors, and hybrid rain/fog systems can improve reliability.
+Risks: Low yield in non-foggy climates, wind damage, contamination, and maintenance.
+Verdict: Needs More Research for each location; Worth Reviving only in fog-rich microclimates.
+Source Notes: Atmospheric water harvesting and fog collection case studies.

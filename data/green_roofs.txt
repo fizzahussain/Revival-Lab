@@ -1,0 +1,19 @@
+Title: Historical Green Roofs (Sod Roofs)
+Category: Insulation / Stormwater Management / Urban Cooling
+Problem Solved:
+Providing natural building insulation against extreme cold and heat, managing stormwater runoff, and reducing the urban heat island effect.
+
+Historical Origin:
+Green roofs date back to ancient Mesopotamia (the Hanging Gardens of Babylon). Historically, sod (turf) roofs were widely used in Scandinavia (particularly Norway, Iceland, and Sweden) for insulation in traditional log homes and turf houses for hundreds of years.
+
+How It Worked:
+Layers of birch bark were laid over wooden roof boards to provide a waterproof barrier. Thick layers of sod and soil containing live grass and vegetation were then placed on top. The dense soil and vegetation layer provided excellent insulation (high thermal resistance and thermal mass), trapping heat inside during freezing winters and keeping the interior cool in summer. In summer, the vegetation cools the surrounding air through shading and evapotranspiration (moisture release).
+
+Why It Was Forgotten:
+The industrial revolution introduced modern manufactured roofing materials, such as asphalt shingles, corrugated metal sheets, and clay tiles. These materials were lighter, faster to install, and required significantly less maintenance and structural support than heavy sod roofs.
+
+Modern Revival:
+Modern green roofs are engineered with lightweight growing mediums, root barriers, drainage layers, and drought-tolerant plants (like Sedum). They are deployed in cities to reduce building cooling loads, absorb rainwater to prevent flash flooding, and mitigate the urban heat island effect by replacing concrete surfaces with vegetation.
+
+Limitations:
+Green roofs add substantial weight to building structures, often requiring reinforced support that increases construction costs. They require ongoing maintenance (weeding, irrigation) and careful installation to prevent water leakage and structural rot.

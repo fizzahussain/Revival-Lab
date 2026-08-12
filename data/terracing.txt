@@ -1,0 +1,11 @@
+Title: Agricultural Terracing
+Category: Crop Resilience / Soil and Water Conservation
+Problem Solved: Reducing erosion, slowing runoff, and making sloped land productive.
+Historical Origin: Terracing appears independently in many mountainous and hilly societies, including Andean, East Asian, Mediterranean, African, and Himalayan landscapes.
+How It Worked: Slopes are reshaped into stepped fields. The steps slow water, reduce soil loss, create manageable growing surfaces, and can improve moisture retention.
+Evidence It Worked: Long-lived terrace landscapes show that the principle can be effective, but success depends on maintenance, drainage, slope stability, and local labor systems.
+Why It Declined: Rural depopulation, labor intensity, mechanized farming, land abandonment, and maintenance failures caused many terraces to degrade.
+Modern Revival Potential: GIS mapping, community labor planning, check dams, agroforestry, and climate-resilient crops can support terrace revival.
+Risks: Poorly built terraces can fail, increase landslide risk, or concentrate runoff.
+Verdict: Worth Reviving where slope, community capacity, and maintenance plans are suitable.
+Source Notes: Soil conservation, watershed management, and traditional agricultural landscape studies.

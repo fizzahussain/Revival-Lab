@@ -1,0 +1,21 @@
+Title: Traditional Rainwater Harvesting (Taanka and Johad)
+
+Problem Solved:
+Securing drinking water and recharging aquifers in highly arid regions with erratic, seasonal rainfall.
+
+Historical Origin:
+Traditional rainwater harvesting methods have been developed independently across dry zones worldwide. Notable examples include the Taanka and Johad systems in Rajasthan, India, dating back to the 15th century and earlier, and the cisterns of the ancient Nabataeans in Petra (Jordan) from 300 BCE.
+
+How It Worked:
+These systems operate on the simple principle of catching rain where it falls:
+1. Taankas (Underground Cisterns): A Taanka is a paved, circular underground storage tank, typically built in the courtyard of a house or in a communal space. The surrounding ground is sloped towards the tank to act as a catchment area (called a pathor). The catchment is plastered with local clay, lime, or ash to keep it clean and impermeable. Rainfall runoff flows into the tank through filtered inlets. The tank is covered to prevent evaporation and contamination, providing drinking water that lasts through the dry season.
+2. Johads (Earthen Check Dams): A Johad is a crescent-shaped mud-and-stone check dam built across a contour slope or small stream channel. During the monsoon season, the Johad collects and holds rainwater runoff. Rather than just storing water on the surface, the primary function of a Johad is to allow the water to slowly seep into the ground. This recharges the local groundwater table, reviving dried wells, maintaining soil moisture for agriculture, and greening the surrounding landscape.
+
+Why It Was Forgotten:
+During the colonial and post-colonial periods, water management became highly centralized. Governments built large-scale dams, canals, and piped water networks, encouraging communities to rely on municipal supplies rather than maintaining local systems. Traditional, communal rainwater systems were labeled primitive and fell into disrepair due to neglect. Additionally, the breakdown of community-led management structures (panchayats/village committees) led to the encroachment of catchment areas for farming or housing.
+
+Modern Revival:
+Traditional water harvesting has seen a massive resurgence led by NGOs (like the Tarun Bharat Sangh in India) and eco-engineers. Reviving Johads and Taankas has successfully returned water to hundreds of drought-prone villages, raised water tables, and allowed farmers to grow crops year-round without expensive borewells. Modern adaptations involve using geotextiles to prevent siltation, integrating solar-powered filtration pumps, and using satellite data to identify the best geographical sites for building earthen structures.
+
+Limitations:
+These systems depend completely on local rainfall; in multi-year drought scenarios, they may remain dry. Earthen dams (Johads) require regular desilting to maintain their holding capacity. Improperly constructed or uncovered cisterns can also become breeding grounds for mosquitoes and waterborne pathogens if not properly sanitized or covered.

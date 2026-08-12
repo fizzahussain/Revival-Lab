@@ -1,0 +1,11 @@
+Title: Jaali Screens and Perforated Shading
+Category: Passive Cooling / Solar Control
+Problem Solved: Reducing heat gain, glare, and privacy problems in hot buildings while allowing filtered daylight and airflow.
+Historical Origin: Perforated stone, brick, terracotta, and wooden screens appear in South Asian, Islamic, and Middle Eastern architecture. In South Asia, jaali screens became famous in Mughal and Indo-Islamic buildings but similar lattice logic exists in many hot-climate traditions.
+How It Worked: Small openings break harsh sunlight into diffuse light, reduce direct solar radiation, and preserve privacy. When combined with courtyards and shaded openings, they support airflow while reducing glare and heat.
+Evidence It Worked: The physical principle is strong: shading lowers solar heat gain, and porous facades can support ventilation. Performance depends on opening ratio, orientation, wind, wall material, and maintenance.
+Why It Declined: Modern glass facades, sealed air-conditioned buildings, cheaper industrial materials, and changing architectural tastes reduced their use.
+Modern Revival Potential: Jaali-inspired facades can be redesigned using parametric geometry, 3D printed panels, local clay or concrete, and daylight simulation. They are especially useful for schools, libraries, and public buildings.
+Risks: Poor designs can block too much daylight or airflow. Dust accumulation and cleaning must be planned.
+Verdict: Worth Reviving.
+Source Notes: General architectural passive design literature; compare with passive cooling reviews and vernacular architecture case studies.

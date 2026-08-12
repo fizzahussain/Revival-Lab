@@ -1,0 +1,11 @@
+Title: Cool Roofs and Lime Wash
+Category: Passive Cooling / Heat Island Reduction
+Problem Solved: Reducing roof heat gain by reflecting more sunlight.
+Historical Origin: Whitewashed roofs and lime coatings have been used in hot climates for centuries. Modern cool roofs use high-reflectance coatings and membranes.
+How It Worked: Light-colored or reflective surfaces absorb less solar radiation than dark roofs, lowering roof surface temperatures and reducing indoor heat transfer.
+Evidence It Worked: Building physics strongly supports reflective roofs as a cooling-load reduction measure, especially for exposed roofs in hot climates.
+Why It Declined: Dark waterproofing products, modern roofing materials, maintenance habits, and aesthetic preferences displaced simple reflective coatings in many places.
+Modern Revival Potential: Combine traditional lime wash logic with modern elastomeric coatings, insulation, roof maintenance programs, and community heat action plans.
+Risks: Glare, soiling, monsoon durability, and waterproofing compatibility must be considered.
+Verdict: Worth Reviving.
+Source Notes: Passive cooling and urban heat island mitigation literature.

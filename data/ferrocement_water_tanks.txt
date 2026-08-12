@@ -1,0 +1,19 @@
+Title: Ferrocement Water Tanks
+Category: Water Storage / Sustainable Infrastructure / Rainwater Harvesting
+Problem Solved:
+Constructing highly durable, low-cost, and water-impermeable storage containers for rainwater harvesting in rural, remote, or off-grid areas without heavy machinery.
+
+Historical Origin:
+Ferrocement construction was first patented in France in the mid-19th century. In the mid-to-late 20th century, it was widely adopted by development agencies and local communities in Asia, Africa, and Latin America as an affordable water storage solution.
+
+How It Worked:
+Ferrocement is made by applying layers of fine cement mortar over a wire frame composed of thin steel rods and multiple layers of wire mesh (such as chicken wire). Because of the high density and close spacing of the wire reinforcement, ferrocement is highly flexible, strong, and highly resistant to cracking and leakage. Tanks of various shapes (such as jars, cylinders, or domes) can be hand-plastered layer-by-layer without using expensive wooden formwork.
+
+Why It Was Forgotten:
+The mass production and cheap distribution of plastic (polyethylene) water tanks. Plastic tanks are lightweight, easy to transport, and ready to use, which quickly replaced ferrocement construction despite plastic's susceptibility to UV degradation and microplastic leaching.
+
+Modern Revival:
+Ferrocement is being revived in green infrastructure and rainwater harvesting systems. It has a lower carbon footprint than plastic, lasts 50+ years, does not leach toxic chemicals or microplastics, and can be constructed using local sand, cement, and wire by training community labor.
+
+Limitations:
+Requires skilled plastering technique to ensure the mesh is fully covered and no air pockets remain. The heavy weight of ferrocement tanks means they must be constructed in place and cannot be easily moved once built.

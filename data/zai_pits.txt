@@ -1,0 +1,23 @@
+Title: Zai Pits (Traditional Agroforestry)
+
+Problem Solved:
+Reclaiming degraded, crusted, and desertified soils for agriculture in dry regions, while maximizing rainwater harvesting and nutrient conservation.
+
+Historical Origin:
+Zai is a traditional farming practice originating in the Sahel region of West Africa, particularly in Burkina Faso and Mali. It was practiced for centuries but was revived and popularized in the 1980s by Yacouba Sawadogo, a Burkinabé farmer, during a period of devastating drought and desertification.
+
+How It Worked:
+Zai pits are small, circular pits dug into hard, crusted soil during the dry season. The pits are typically 20 to 30 centimeters in diameter and 10 to 20 centimeters deep, spaced about a meter apart.
+Once the pits are dug, farmers fill them with organic matter, such as compost, manure, or dry leaves. This organic material serves two critical functions:
+1. Attracting Termites: Termites are drawn to the organic matter. They digest it and dig deep, underground tunnels through the hard soil crust. These termite channels loosen the compacted earth, allowing water to penetrate deep into the ground when it rains.
+2. Nutrient and Moisture Retention: The organic matter acts as a sponge, holding onto moisture. When the rains arrive, the pits capture runoff water that would otherwise wash over the hard, crusted surface. The compost provides a nutrient-rich environment directly around the seeds planted in the pit.
+By planting seeds (typically drought-resistant crops like sorghum or millet) directly in the center of the compost-filled pits, farmers ensure the young plants have immediate access to concentrated moisture and nutrients, enabling them to survive dry spells.
+
+Why It Was Forgotten:
+With the introduction of modern chemical fertilizers and tractors, traditional manual farming methods were often discouraged as outdated or inefficient. Development policies in the mid-20th century favored large-scale mechanized agriculture, which destroyed soil structures and led to severe erosion and desertification when rainfall patterns changed. The heavy manual labor required to dig the pits also led younger generations to abandon the practice in search of urban employment.
+
+Modern Revival:
+Zai pits are now recognized as a key tool for climate-smart agriculture and ecosystem restoration in arid and semi-arid regions globally. They are being implemented in restoration projects across East Africa, India, and Australia to combat land degradation. Modern adaptations include using specialized, low-cost mechanical augers to speed up the digging process, combining them with drip irrigation, and utilizing biochar to enhance water retention even further.
+
+Limitations:
+The primary limitation is the high physical labor required to dig pits in hard-packed, clay-heavy, or rocky soil. It is a slow, manual process that is difficult to scale without cooperative community labor. It also requires a reliable source of organic compost or manure, which can be scarce in highly desertified areas where livestock feed is limited.

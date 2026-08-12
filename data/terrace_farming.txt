@@ -1,0 +1,19 @@
+Title: Inca Terrace Farming (Andenes)
+Category: Agriculture / Water Conservation / Soil Preservation
+Problem Solved:
+Farming successfully on steep mountain slopes, preventing soil erosion, conserving rainwater, and mitigating frost risk at high elevations.
+
+Historical Origin:
+Developed to an advanced scale by the Inca Empire (and earlier Andean cultures) in the rugged Andes mountains of South America, enabling agriculture across varying altitudes and steep terrains.
+
+How It Worked:
+Andenes are artificial agricultural terraces carved into hillsides and supported by stone retaining walls. The structure of each terrace consists of multiple layers: a base of large stones and gravel for drainage, a middle layer of sand, and a top layer of fertile topsoil. The stone retaining walls absorb heat from solar radiation during the day and radiate that heat back to the soil during freezing nights, creating a warmer microclimate that protects crops (like maize and potatoes) from high-altitude frost. Runoff rainwater is channeled systematically from the top terraces down to the lower ones, preventing soil erosion.
+
+Why It Was Forgotten:
+After the Spanish conquest of Peru in the 16th century, population collapse and forced resettlement of indigenous communities led to a lack of maintenance for the complex terraces. Modern agriculture favored flat valleys where large-scale machinery could be deployed.
+
+Modern Revival:
+Andean communities, NGOs, and governments are restoring ancient Inca terraces to improve climate resilience, combat landslides, optimize water conservation during droughts, and support sustainable, local crop production in mountainous terrains.
+
+Limitations:
+Building and maintaining agricultural terraces is highly labor-intensive, requiring manual stone-laying. The steep and narrow steps prevent the use of standard modern mechanical farming equipment.

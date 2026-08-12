@@ -1,0 +1,19 @@
+Title: Checkerboard Sand Dune Stabilization
+Category: Desertification / Windbreaks / Soil Conservation
+Problem Solved:
+Preventing moving sand dunes from encroaching on agricultural lands, roads, water channels, and coastal infrastructure.
+
+Historical Origin:
+Developed by communities living along desert margins and coastal regions, particularly in North Africa, the Middle East, and parts of East Asia, to halt the spread of desert sands.
+
+How It Worked:
+The technique involves building low, grid-like fences (usually 1x1 meter checkerboards) using straw, dried branches, reeds, or local brushwood. These fences are partially buried in the sand. When wind blows across the checkerboard, the grid structures disrupt the airflow, reduce the wind speed close to the ground, and trap the blowing sand within the squares. Once the sand is stabilized, drought-tolerant native plants and grasses are seeded in the grid squares to establish a self-sustaining root system that permanently binds the soil.
+
+Why It Was Forgotten:
+With the availability of heavy earth-moving machinery, chemical sprays (such as petroleum or asphalt emulsions to coat sand), and synthetic geotextiles, traditional brushwood and straw checkerboards were viewed as slow and outdated.
+
+Modern Revival:
+Checkerboard sand barriers are a primary component of large-scale ecological engineering projects, such as China's "Three-North Shelter Forest Program" (Green Great Wall), because they are highly effective, low-cost, environmentally friendly, and use biodegradable local materials.
+
+Limitations:
+Extremely labor-intensive to construct initial checkerboards. They are temporary structures that will degrade over 3 to 5 years, meaning they must be followed by successful vegetative seeding to achieve permanent dune stabilization.

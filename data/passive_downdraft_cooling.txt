@@ -1,0 +1,11 @@
+Title: Passive Downdraft Evaporative Cooling
+Category: Passive Cooling / Hybrid Vernacular Engineering
+Problem Solved: Cooling indoor spaces with water evaporation and controlled airflow using much less energy than compressor-based air conditioning.
+Historical Origin: The principle is related to wind towers, wetted screens, fountains, courtyards, and other evaporative traditions in hot dry regions.
+How It Worked: Air is drawn or guided downward through a wetted medium. Evaporation cools the air before it enters occupied spaces.
+Evidence It Worked: The physics is strong in hot-dry climates but weakens as humidity rises. Modern versions can use fans, pads, sensors, and controls.
+Why It Declined: Conventional air conditioning offers predictable cooling across more climates, while evaporative systems need water and maintenance.
+Modern Revival Potential: Useful for atriums, schools, transit spaces, and semi-open public buildings in suitable climates.
+Risks: Poor fit for humid cities, water consumption, microbial growth, and maintenance.
+Verdict: Worth Reviving in hot-dry climates; Needs More Research in humid climates.
+Source Notes: Passive cooling and evaporative cooling research.

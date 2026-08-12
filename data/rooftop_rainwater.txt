@@ -1,0 +1,11 @@
+Title: Rooftop Rainwater Harvesting
+Category: Water Scarcity / Urban Resilience
+Problem Solved: Capturing rain from roofs for storage, recharge, or non-potable use.
+Historical Origin: Cisterns, tanks, and rooftop collection systems have been used in dry and monsoon climates for centuries.
+How It Worked: Rainfall from roof surfaces is routed through gutters, first-flush diverters, filters, and tanks or recharge pits.
+Evidence It Worked: Water harvesting guidance recognizes storage technologies as useful for domestic use, livestock, crops, and drought resilience when water quality and sizing are managed.
+Why It Declined: Piped water supply, urban planning habits, lack of maintenance, and contamination concerns reduced adoption.
+Modern Revival Potential: Smart tank sensors, modular filters, household incentives, school pilots, and recharge regulations can revive the practice.
+Risks: Contamination, mosquito breeding, undersized tanks, and poor first-flush design.
+Verdict: Worth Reviving.
+Source Notes: FAO water harvesting and storage guidance.

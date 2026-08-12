@@ -1,0 +1,19 @@
+Title: Mangrove Coastal Buffers
+Category: Coastal Defense / Flood Management / Ecosystem Services
+Problem Solved:
+Protecting coastal human settlements from heavy flooding, storm surges, coastal erosion, and tsunamis while providing carbon capture.
+
+Historical Origin:
+Indigenous coastal populations across Southeast Asia, South Asia, Africa, and Central America traditionally preserved coastal mangrove forests to safeguard their communities from extreme ocean weather and tidal cycles for generations.
+
+How It Worked:
+Mangroves grow in the intertidal zones of tropical and subtropical coasts. Their complex, dense, and tangled aerial root systems (pneumatophores) act as physical barriers that break the energy of incoming waves, storm surges, and tsunamis. As floodwaters pass through the roots, their velocity is significantly reduced, preventing erosion of the shoreline. The roots also trap sediment and organic matter, raising the elevation of the shoreline over time to combat sea-level rise.
+
+Why It Was Forgotten:
+Rapid coastal urbanization, tourist resort development, and industrial aquaculture (such as commercial shrimp farming) led to the destruction of over 30% of global mangrove forests. Engineers favored concrete seawalls and dikes, which were considered more modern and immediate.
+
+Modern Revival:
+Countries are now shifting from concrete seawalls to nature-based solutions (NbS) by replanting mangrove buffers. Hybrid engineering approaches combine offshore breakwaters with coastal mangrove restoration to protect cities against climate-driven storm surges and sea-level rise.
+
+Limitations:
+Mangrove restoration requires substantial coastal space and specific soil, salinity, and tidal conditions to succeed. Newly planted mangroves require several years to grow dense enough to serve as an effective physical buffer against major storm surges.

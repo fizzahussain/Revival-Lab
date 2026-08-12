@@ -1,0 +1,11 @@
+Title: Rain Gardens
+Category: Urban Flooding / Water Quality
+Problem Solved: Capturing roof and street runoff close to where rain falls.
+Historical Origin: Rain gardens are a modern named practice, but they revive older landscape logic: let water soak into soil instead of rushing away through hard channels.
+How It Worked: Depressed planted areas temporarily hold stormwater, filter it through soil and roots, and reduce peak runoff.
+Evidence It Worked: Urban resilience and green infrastructure literature supports distributed bioretention when sizing, soil mix, overflow routes, and plant selection match local rainfall.
+Why It Declined or Was Overlooked: Conventional urban design often prioritized paved surfaces and underground drains over visible planted water systems.
+Modern Revival Potential: Useful for schools, homes, campuses, sidewalks, and public parks. Can be combined with rain barrels and permeable paving.
+Risks: Poor maintenance, mosquito concerns, compacted soil, and lack of overflow planning can undermine performance.
+Verdict: Worth Reviving.
+Source Notes: Nature-based solutions and urban stormwater management literature.

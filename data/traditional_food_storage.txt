@@ -1,0 +1,19 @@
+Title: Evaporative Cooling Food Storage (Zeer Pots)
+Category: Refrigeration / Off-Grid Storage / Evaporative Cooling
+Problem Solved:
+Preserving fresh fruits, vegetables, and other perishables in hot, dry climates without relying on electricity or chemical refrigerants.
+
+Historical Origin:
+Porous clay vessels have been used for cooling water and food since ancient times in Egypt, India, and North Africa. The double-pot evaporative cooler (known as the Zeer pot) was popularized in the late 20th century by Nigerian educator and inventor Mohammed Bah Abba to help rural farming communities preserve food.
+
+How It Worked:
+The system consists of two porous clay pots of different sizes, placed one inside the other. The space between them is filled with wet sand, and the inner pot is covered with a damp cloth. As water evaporates from the wet sand through the porous walls of the outer clay pot, it absorbs heat from the inner chamber (evaporative cooling). This process keeps the inner pot significantly cooler than the ambient air temperature, lowering temperatures by up to 5 to 10 degrees Celsius and keeping produce fresh for weeks instead of days.
+
+Why It Was Forgotten:
+The introduction of electric domestic refrigerators and commercial cold-storage chains. Additionally, the availability of cheap plastic storage bins replaced traditional earthenware pots, although plastic does not allow the evaporation required for cooling.
+
+Modern Revival:
+Zeer pots and similar evaporative cooling designs are being adopted by off-grid homesteaders, green communities, and in disaster relief situations where power grids are down. They are also used in developing nations to reduce post-harvest crop waste for smallholder farmers.
+
+Limitations:
+Highly climate-dependent: they require low ambient humidity to function effectively, as high humidity prevents water evaporation. The pots must be supplied with a regular source of clean water and kept in well-ventilated areas to operate.
